@@ -2,7 +2,11 @@
 
 int main(void)
 {
-    printf("Goodbye world!\n");
+    int worlds = 4;
+    printf("Hello world #%d!\n", world);
 
+    printf("Goodbye world #%d!\n", world);
+
+    printf("Hello world #%d!\n", world);
     return 0;
 }
